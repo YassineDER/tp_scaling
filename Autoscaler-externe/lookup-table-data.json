@@ -1,0 +1,6752 @@
+[
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.088056680161943,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.4909456740442657,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.503012048192771,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.5502008032128516,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.4522613065326633,
+        "Replicas": 1,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.8736025469031414,
+        "Replicas": 2,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 2.8324587827551584,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 2.852345571095571,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.8187306301652892,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 2.835346638655462,
+        "Replicas": 2,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 2.941027901979561,
+        "Replicas": 3,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.0141088586210536,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.072892344132786,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.910572966128522,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0071750011480005,
+        "Replicas": 3,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.040833111901768,
+        "Replicas": 4,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.314899626349967,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.02527681452957,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 2.9705054238225346,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.0762855989853573,
+        "Replicas": 4,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 10,
+        "TotalDelay": 3.0036429279638366,
+        "Replicas": 5,
+        "LookupTable": 2
+    },
+    {
+        "RequestInterval": 20,
+        "TotalDelay": 3.269168015283019,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 30,
+        "TotalDelay": 3.3887768759018755,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 40,
+        "TotalDelay": 3.3620387682492945,
+        "Replicas": 5,
+        "LookupTable": 1
+    },
+    {
+        "RequestInterval": 50,
+        "TotalDelay": 3.768713247210922,
+        "Replicas": 5,
+        "LookupTable": 1
+    }
+]
