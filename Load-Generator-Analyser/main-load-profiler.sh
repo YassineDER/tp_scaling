@@ -10,7 +10,7 @@ for NumReplicas in 5 4 3 2 1; do
         node test-load-generator.js $RequestInterval $NumReplicas
         echo
 
-        sleep 10
+        sleep 10 # Wait for the scaling to take effect
         echo "---------------------------------------------------------"
         echo "Analysing the resdults"
         node main-load-analyser "collected-profiles/results-$NumReplicas-$RequestInterval-raw.json"

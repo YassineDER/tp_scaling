@@ -93,9 +93,17 @@ app.post('/json', (req, res) => {
 
                     break
 
-                case 'AutoScale': // Determine the number of replicas based on the lookup table
+                case 'ManualScale': // Manually scale the deployment
                     x3 = 5 // Default value for replicas
-                    x4 = 1 // Default value for lookup table
+                    x1 = req.body['RequestInterval']
+                    x2 = req.body['TotalDelay']
+                    
+                    ans = `Number of Replicas to reach TotalDelay of ${x2} for RequestInterval of ${x1} should be => ${x3}`
+                    execSync(`kubectl scale --replicas=${x3} -f k8-tp-04-busy-box-deployment.yaml`)
+                    break
+
+                case 'AutoScale': // Automatically scale the deployment based on the lookup table
+                    x4 = 5 // Default value for replicas if not found in the lookup table
                     x1 = req.body['RequestInterval']
                     x2 = req.body['TotalDelay']
 
@@ -103,17 +111,14 @@ app.post('/json', (req, res) => {
                     dataLookupTable.forEach(dp => {
                         if (dp['RequestInterval'] <= x1) {
                             if (dp['TotalDelay'] <= x2) {
-                                if (dp['Replicas'] <= x3) {
-                                    x3 = dp['Replicas']
-                                    x4 = dp['LookupTable']
-                                }
+                                if (dp['Replicas'] <= x4) 
+                                    x4 = dp['Replicas']
                             }
                         }
                     })
 
-                    ans = `Number of Replicas to reach TotalDelay of ${req.body['TotalDelay']} for RequestInterval of ${req.body['RequestInterval']} should be => ${x3} `
-                    execSync(`kubectl scale --replicas=${x3} -f k8-tp-04-busy-box-deployment.yaml`)
-
+                    ans = `Number of Replicas to reach TotalDelay of ${x2} for RequestInterval of ${x1} should be => ${x4}`
+                    execSync(`kubectl scale --replicas=${x4} -f k8-tp-04-busy-box-deployment.yaml`)
                     break
             }
 
