@@ -99,7 +99,7 @@ app.post('/json', (req, res) => {
                     x2 = req.body['TotalDelay']
                     
                     ans = `Number of Replicas to reach TotalDelay of ${x2} for RequestInterval of ${x1} should be => ${x3}`
-                    execSync(`kubectl scale --replicas=${x3} -f k8-tp-04-busy-box-deployment.yaml`)
+                    execSync(`kubectl scale --replicas=${x3} -f ../k8s/k8-tp-04-busy-box-deployment.yaml`)
                     break
 
                 case 'AutoScale': // Automatically scale the deployment based on the lookup table
@@ -118,7 +118,7 @@ app.post('/json', (req, res) => {
                     })
 
                     ans = `Number of Replicas to reach TotalDelay of ${x2} for RequestInterval of ${x1} should be => ${x4}`
-                    execSync(`kubectl scale --replicas=${x4} -f k8-tp-04-busy-box-deployment.yaml`)
+                    execSync(`kubectl scale --replicas=${x4} -f ../k8s/k8-tp-04-busy-box-deployment.yaml`)
                     break
             }
 

@@ -30,8 +30,8 @@ function sendAxiosPost(url, dataObj) {
 }
 
 
-console.log(`Execute => kubectl scale --replicas=1 -f k8-tp-04-busy-box-deployment.yaml`)
-execSync(`kubectl scale --replicas=1 -f k8-tp-04-busy-box-deployment.yaml`)
+console.log(`Execute => kubectl scale --replicas=1 -f ../k8s/k8-tp-04-busy-box-deployment.yaml`)
+execSync(`kubectl scale --replicas=1 -f ../k8s/k8-tp-04-busy-box-deployment.yaml`)
 
 sendAxiosPost(urlLoadGenerator, {
     MessageType: 'Setting',
