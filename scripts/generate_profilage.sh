@@ -8,7 +8,7 @@ npm install
 
 # Generate the results in /collected-profiles, must be detached from the terminal
 echo "Generating profiling results:"
-echo "Running the main load generator script in the background..."
+echo "Running the main load generator script in the background"
 
 nohup node main-load-generator.js > /dev/null 2>&1 &
 main_generator_pid=$!
@@ -19,13 +19,14 @@ if [[ "$1" == "--debug" ]]; then
     echo "Running the profiler script (test) in the background..."
     chmod +x ./test.sh
     nohup ./test.sh > /dev/null 2>&1 &
+    profiler_pid=$!
 else
     echo "Running the profiler script in the background. This is the part that will take a while..."
     sed -i -e 's/\r$//' main-load-profiler.sh
     chmod +x ./main-load-profiler.sh
     nohup ./main-load-profiler.sh > /dev/null 2>&1 &
+    profiler_pid=$!
 fi
-profiler_pid=$!
 
 while ps -p $profiler_pid > /dev/null; do
     sleep 10
@@ -33,7 +34,7 @@ done
 
 # We can now stop the load generator
 echo "Profiling done, stopping the load generator..."
-pkill -P $main_generator_pid
+kill $main_generator_pid
 
 # Navigate to the Autoscaler-externe directory
 # cd ~/tp_scaling/Autoscaler-externe
