@@ -16,7 +16,6 @@ if (myArgs[0] == null) {
 } else {
     RequestInterval = myArgs[0]
     NumberOfReplicas = myArgs[1]
-
     console.log(`Run test for RequestInterval: ${RequestInterval} with NumberOfReplicas: ${NumberOfReplicas}`)
 }
 
@@ -31,15 +30,28 @@ function sendAxiosPost(url, dataObj) {
         })
 }
 
-
 // if there's no deployment, create one
-if (execSync("kubectl get deployments").toString().includes("tp-04-busy-box-deployment")) {
-    console.log("Deployment not found, creating one")
-    execSync("kubectl create -f k8-tp-04-busy-box-deployment.yaml")
+const depOutput = execSync("kubectl create -f k8-tp-04-busy-box-deployment.yaml").toString()
+if (depOutput.startsWith("Error"))
+    console.log("Deployment already exists")
+else {
+    // Sleep 10 seconds
+    setTimeout(() => console.log("Waiting for deployment to be ready"), 10000)
+    console.log("Deployment created")
 }
 
+// if there's no service, create one
+const servOutput = execSync("kubectl create -f k8-tp-04-busy-box-service.yaml").toString()
+if (servOutput.includes("provided port is already allocated"))
+    console.log("Service already exists")
+else console.log("Service created")
+
+
+// Scale the deployment
 console.log(`Execute => kubectl scale --replicas=${NumberOfReplicas} -f k8-tp-04-busy-box-deployment.yaml`)
 execSync(`kubectl scale --replicas=${NumberOfReplicas} -f k8-tp-04-busy-box-deployment.yaml`)
+
+
 setTimeout(() => {
     sendAxiosPost(urlLoadGenerator, {
         MessageType: 'Setting',
