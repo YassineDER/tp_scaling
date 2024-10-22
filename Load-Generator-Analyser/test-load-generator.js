@@ -32,8 +32,11 @@ function sendAxiosPost(url, dataObj) {
 }
 
 
-//execSync("kubectl scale --replicas=5 -f k8-tp-04-busy-box-deployment.yaml")
-//execSync("kubectl get deployments")
+// if there's no deployment, create one
+if (execSync("kubectl get deployments").toString().includes("tp-04-busy-box-deployment")) {
+    console.log("Deployment not found, creating one")
+    execSync("kubectl create -f k8-tp-04-busy-box-deployment.yaml")
+}
 
 console.log(`Execute => kubectl scale --replicas=${NumberOfReplicas} -f k8-tp-04-busy-box-deployment.yaml`)
 execSync(`kubectl scale --replicas=${NumberOfReplicas} -f k8-tp-04-busy-box-deployment.yaml`)
