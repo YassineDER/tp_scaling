@@ -32,9 +32,10 @@ while ps -p $profiler_pid > /dev/null; do
     sleep 10
 done
 
+# Copy the profiling results to the auto-scaling directory
+cp -r ../Load-Generator-Analyser/collected-profiles/* ../Autoscaler-externe/collected-profiles/
+echo "Profiling results copied to the auto-scaling directory"
+
 # We can now stop the load generator
 echo "Profiling done, stopping the load generator..."
 kill $main_generator_pid
-
-# Navigate to the Autoscaler-externe directory
-# cd ~/tp_scaling/Autoscaler-externe
