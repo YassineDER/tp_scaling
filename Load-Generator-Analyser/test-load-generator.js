@@ -47,7 +47,7 @@ setTimeout(() => {
         NodeCommand: 'GenerateLoad',
         Duration: 10000, //10000ms = 10s
         Interval: RequestInterval,
-        NumberOfPoints: 1700,
+        NumberOfPoints: 1450,
         TargetDelay: 25
     })
 

@@ -1,9 +1,3 @@
-# XXXXXX/YYYYYY is your username/password in https://hub.docker.com/
-# kubectl create -f k8-tp-04-busy-box-deployment.yaml
-# kubelctl get deployments
-# kubelctl get pods
-# kubectl scale --replicas=5 -f k8-tp-04-busy-box-deployment.yaml
-
 apiVersion: apps/v1
 kind: Deployment
 metadata:

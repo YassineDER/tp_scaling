@@ -16,13 +16,14 @@ depOutput=$(kubectl create -f k8-tp-04-busy-box-deployment.yaml 2>&1)
 if [[ $depOutput == *"Error"* ]]; then
     echo "Deployment already exists"
 else
+    echo "Creating deployment..."
     sleep 10 # Wait for the deployment to be created
     echo "Deployment created"
 fi
 
 # if there's no service, create one
 svcOutput=$(kubectl create -f k8-tp-04-busy-box-service.yaml 2>&1)
-if [[ $svcOutput == *"Error"* ]]; then
+if [[ $svcOutput == *"provided port is already allocated"* ]]; then
     echo "Service already exists"
 else
     echo "Service created"
