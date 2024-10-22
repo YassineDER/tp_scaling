@@ -14,14 +14,20 @@ nohup node main-load-generator.js > /dev/null 2>&1 &
 main_generator_pid=$!
 
 # Make the main-load-profiler.sh script executable and run it
-echo "Running the profiler script in the background. This is the part that will take a while..."
-sed -i -e 's/\r$//' main-load-profiler.sh
-chmod +x ./main-load-profiler.sh
-nohup ./main-load-profiler.sh > /dev/null 2>&1 &
+# Check if --debug flag is passed
+if [[ "$1" == "--debug" ]]; then
+    echo "Running the profiler script (test) in the background..."
+    chmod +x ./test.sh
+    nohup ./test.sh > /dev/null 2>&1 &
+else
+    echo "Running the profiler script in the background. This is the part that will take a while..."
+    sed -i -e 's/\r$//' main-load-profiler.sh
+    chmod +x ./main-load-profiler.sh
+    nohup ./main-load-profiler.sh > /dev/null 2>&1 &
+fi
 profiler_pid=$!
 
 while ps -p $profiler_pid > /dev/null; do
-    echo "Profiling..."
     sleep 10
 done
 
