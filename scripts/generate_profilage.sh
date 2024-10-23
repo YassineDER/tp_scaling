@@ -34,6 +34,12 @@ done
 
 # Copy the profiling results to the auto-scaling directory
 hostname=$(hostname -s)
+# Check if the directory exists, if not create it
+if [ ! -d "../Autoscaler-externe/collected-profiles-$hostname" ]; then
+    mkdir ../Autoscaler-externe/collected-profiles-$hostname
+else
+    rm -rf ../Autoscaler-externe/collected-profiles-$hostname/*
+fi
 cp -r ../Load-Generator-Analyser/collected-profiles-$hostname/* ../Autoscaler-externe/collected-profiles-$hostname/
 echo "Profiling results copied to the auto-scaling directory"
 
