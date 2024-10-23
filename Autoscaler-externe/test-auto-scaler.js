@@ -13,7 +13,7 @@ if (myArgs[0] == null) {
 } else {
     RequestInterval = myArgs[0]
     TargetDelay = myArgs[1]
-
+    AutoScaling = myArgs[2] // true or false
     console.log(`Run test for RequestInterval: ${RequestInterval} to reach TargetDelay: ${TargetDelay}`)
 }
 
@@ -30,7 +30,7 @@ function sendAxiosPost(url, dataObj) {
 }
 
 
-console.log(`Execute => kubectl scale --replicas=1 -f ../k8s/k8-tp-04-busy-box-deployment.yaml`)
+console.log(`Scaling to 1 replica`)
 execSync(`kubectl scale --replicas=1 -f ../k8s/k8-tp-04-busy-box-deployment.yaml`)
 
 sendAxiosPost(urlLoadGenerator, {
@@ -55,7 +55,7 @@ setTimeout(() => {
 
     sendAxiosPost(urlAutoScaler, {
         MessageType: 'Command',
-        NodeCommand: 'AutoScale',
+        NodeCommand: AutoScaling ? 'AutoScale' : 'ManualScale',
         RequestInterval: RequestInterval,
         TotalDelay: TargetDelay
     })

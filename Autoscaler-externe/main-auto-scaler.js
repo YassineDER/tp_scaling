@@ -102,6 +102,7 @@ app.post('/json', (req, res) => {
                     execSync(`kubectl scale --replicas=${x3} -f ../k8s/k8-tp-04-busy-box-deployment.yaml`)
                     break
 
+                    
                 case 'AutoScale': // Automatically scale the deployment based on the lookup table
                     x4 = 5 // Default value for replicas if not found in the lookup table
                     x1 = req.body['RequestInterval']

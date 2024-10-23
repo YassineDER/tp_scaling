@@ -1,5 +1,3 @@
 node_modules/
 test.sh
 doc.tex
-collected-data.json
-lookup-table-data.json
