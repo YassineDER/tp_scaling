@@ -33,7 +33,8 @@ while ps -p $profiler_pid > /dev/null; do
 done
 
 # Copy the profiling results to the auto-scaling directory
-cp -r ../Load-Generator-Analyser/collected-profiles/* ../Autoscaler-externe/collected-profiles/
+hostname=$(hostname -s)
+cp -r ../Load-Generator-Analyser/collected-profiles-$hostname/* ../Autoscaler-externe/collected-profiles-$hostname/
 echo "Profiling results copied to the auto-scaling directory"
 
 # We can now stop the load generator

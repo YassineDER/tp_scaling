@@ -53,10 +53,11 @@ setTimeout(() => {
 
 
     setTimeout(() => {
+        const hostname = execSync('hostname -s').toString().trim()
         sendAxiosPost(urlLoadGenerator, {
             MessageType: 'Command',
             NodeCommand: 'SaveCollectedData',
-            FileName: `collected-profiles/results-${NumberOfReplicas.toString()}-${RequestInterval.toString()}-raw.json`
+            FileName: `collected-profiles-${hostname}/results-${NumberOfReplicas.toString()}-${RequestInterval.toString()}-raw.json`
         })
     }, 11000);
 
