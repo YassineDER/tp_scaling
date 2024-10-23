@@ -3,7 +3,7 @@
 hostname=$(hostname -s)
 
 # if the collected-profiles directory doesn't exist, create it
-if [ ! -d "collected-profiles" ]; then
+if [ ! -d "collected-profiles-$hostname" ]; then
     mkdir collected-profiles-$hostname
 fi
 
