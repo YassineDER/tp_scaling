@@ -4,3 +4,7 @@ collected-profiles-*/
 *.out
 collected-data.json
 lookup-table-data.json
+*.stdout
+*.stderr
+oarapi*
+

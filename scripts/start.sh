@@ -1,34 +1,23 @@
 #!/bin/bash
 
-# Setup EnOSlib
-virtualenv -p python3 venv
-source venv/bin/activate
-pip install -U pip
-pip install enoslib paramiko
+# Clean up the previous outputs
+rm ~/tp_scaling/Load-Generator-Analyser/*.out
+rm ~/tp_scaling/Autoscaler-externe/*.out
+rm ~/tp_scaling/scripts/*.out
+rm ~/tp_scaling/*.out
 
-# Get the login and password from params
-# Parse command line arguments
-while [[ "$#" -gt 0 ]]; do
-    case $1 in
-        --username) username="$2"; shift ;;
-        --password) password="$2"; shift ;;
-        *) echo "Unknown parameter passed: $1"; exit 1 ;;
-    esac
-    shift
-done
+# Setup K8s and Node.js
+# ./setup-node-k8s.sh
+echo "Installing up K8s and Node.js..."
+nohup ./setup-node-k8s.sh > setup-node-k8s.out 2>&1 &
+setup_node_k8s_pid=$!
+wait $setup_node_k8s_pid
 
-# Check if username and password are set
-if [ -z "$username" ] || [ -z "$password" ]; then
-    echo "Error: --username and --password are required to authenticate to g5k API"
-    exit 1
-fi
+# Generate the profiling results
+# ./generate_profilage.sh --debug
+nohup ./generate_profilage.sh > generate_profilage.out 2>&1 &
+generate_profilage_pid=$!
+wait $generate_profilage_pid
 
-
-echo "
-username: $username
-password: $password
-" > ~/.python-grid5000.yaml
-chmod 600 ~/.python-grid5000.yaml
-
-
+echo "Jobs done" >> ~/tp_scaling/done.out
 

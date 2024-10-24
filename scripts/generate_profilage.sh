@@ -8,12 +8,17 @@ npm install
 
 # Generate the results in /collected-profiles, must be detached from the terminal
 echo "Running the main load generator script in the background"
-
 nohup node main-load-generator.js > main-load-generator.out 2>&1 &
 main_generator_pid=$!
 
+
+# Prepare the profiler
+echo "Creating the K8s deployment and service..."
 cd ~/tp_scaling/scripts
-./prepare-profiler.sh
+nohup ./prepare-profiler.sh > prepare-profiler.out 2>&1 &
+prepare_profiler_pid=$!
+wait $prepare_profiler_pid
+
 
 # Make the main-load-profiler.sh script executable and run it
 # Check if --debug flag is passed

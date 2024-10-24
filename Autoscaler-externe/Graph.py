@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 # Déclarer le hostname comme variable
 
-directory = "/home/hmelehi/tp_scaling/Autoscaler-externe"  # Remplace par ton chemin
+directory = "~/tp_scaling/Autoscaler-externe"  # Remplace par ton chemin
 
 # Assembler le nom du fichier dynamiquement
 filename = f"lookup-table-data.json"

@@ -5,16 +5,16 @@ const urlLoadGenerator = 'http://localhost:4000/json'
 
 let RequestInterval
 let TargetDelay
-let AutoScaling
+let AutoScaling = false
 
 var myArgs = process.argv.slice(2)
-if (myArgs[0] == null) {
+if (myArgs[0] == null || myArgs[1] == null || typeof myArgs[2] !== 'boolean') {
     console.log('Please provide RequestInterval, TargetDelay and AutoScaling (true or false) as arguments')
     return
 } else {
     RequestInterval = myArgs[0]
     TargetDelay = myArgs[1]
-    AutoScaling = myArgs[2] // true or false
+    AutoScaling = myArgs[2] 
     console.log(`Run test for RequestInterval: ${RequestInterval} to reach TargetDelay: ${TargetDelay}`)
 }
 
@@ -57,6 +57,7 @@ setTimeout(() => {
     sendAxiosPost(urlAutoScaler, {
         MessageType: 'Command',
         NodeCommand: AutoScaling ? 'AutoScale' : 'ManualScale',
+        // NodeCommand: 'AutoScale',
         RequestInterval: RequestInterval,
         TotalDelay: TargetDelay
     })
