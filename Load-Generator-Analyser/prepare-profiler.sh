@@ -1,6 +1,7 @@
 #!/bin/bash
 
 hostname=$(hostname -s)
+rm -rf collected-profiles-*/
 
 # if the collected-profiles directory doesn't exist, create it
 if [ ! -d "collected-profiles-$hostname" ]; then
