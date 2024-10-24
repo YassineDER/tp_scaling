@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: tp-04-busy-box-deployment
-          image: ghcr.io/yassineder/midl-tp-04-busy-box
+          image: ghcr.io/yassineder/midl-tp-04-busy-box:v1
           resources:
             limits:
               memory: "256Mi"

@@ -34,8 +34,6 @@ else
     nohup ./main-load-profiler.sh > main-load-profiler.out 2>&1 &
 fi
 profiler_pid=$!
-
-# Wait for the profiler to finish
 wait $profiler_pid
 
 # Copy the profiling results to the auto-scaling directory

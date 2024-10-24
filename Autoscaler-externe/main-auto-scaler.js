@@ -5,6 +5,7 @@
 const express = require('express')
 const ip = require("ip")
 const fs = require('fs')
+const path = require('path')
 
 const { execSync } = require('child_process')
 
@@ -94,37 +95,33 @@ app.post('/json', (req, res) => {
 
                     break
 
-                case 'ManualScale': // Manually scale the deployment
+                case 'manual': // Manually scale the deployment
                     x3 = 5 // Default value for replicas
-                    
-                    ans = x3
+
+                    ans = `ManualScale to ${x3} replicas`
                     execSync(`kubectl scale --replicas=${x3} -f ../k8s/k8-tp-04-busy-box-deployment.yaml`)
                     break
 
-                case 'AutoScale': // Automatically scale the deployment based on the lookup table
-                    x4 = 5 // Default value for replicas if not found in the lookup table
+                case 'auto': // Automatically scale the deployment based on the lookup table
+                    x4 = 5 // Default value for replicas
                     x1 = req.body['RequestInterval']
                     x2 = req.body['TotalDelay']
 
-                    // Find the closest match for the RequestInterval and TotalDelay
+                    // Find the best closest match in the lookup table
                     dataLookupTable.forEach(dp => {
-                        if (dp['RequestInterval'] <= x1) {
-                            if (dp['TotalDelay'] <= x2) {
-                                if (dp['Replicas'] <= x4) 
-                                    x4 = dp['Replicas']
-                            }
+                        if (dp['RequestInterval'] <= x1 && dp['TotalDelay'] <= x2) {
+                            x4 = dp['Replicas']
                         }
                     })
 
-                    ans = x4
+                    ans = `AutoScale to ${x4} replicas`
                     execSync(`kubectl scale --replicas=${x4} -f ../k8s/k8-tp-04-busy-box-deployment.yaml`)
                     break
             }
-
             break
 
         default:
-            ans += ` => Unknown Message Type => ${req.body['MessageType']} !!!`
+            ans = ` => Unknown Message Type => ${req.body['MessageType']} !!!`
     }
 
     res.json({ 'Message': ans })
