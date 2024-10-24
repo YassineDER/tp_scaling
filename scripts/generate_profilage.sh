@@ -12,8 +12,12 @@ echo "Running the main load generator script in the background"
 nohup node main-load-generator.js > main-load-generator.out 2>&1 &
 main_generator_pid=$!
 
+cd ~/tp_scaling/scripts
+./prepare-profiler.sh
+
 # Make the main-load-profiler.sh script executable and run it
 # Check if --debug flag is passed
+cd ~/tp_scaling/Load-Generator-Analyser
 if [[ "$1" == "--debug" ]]; then
     echo "Running the profiler script (test) in the background..."
     chmod +x ./test.sh
@@ -31,13 +35,12 @@ wait $profiler_pid
 
 # Copy the profiling results to the auto-scaling directory
 hostname=$(hostname -s)
+cd ~/tp_scaling
 # Check if the directory exists, if not create it
-rm -rf ../Autoscaler-externe/collected-profiles-$hostname
-mkdir ../Autoscaler-externe/collected-profiles-$hostname
-    
-fi
+rm -rf Autoscaler-externe/collected-profiles-$hostname
+mkdir Autoscaler-externe/collected-profiles-$hostname
 
-cp -r ../Load-Generator-Analyser/collected-profiles-$hostname/* ../Autoscaler-externe/collected-profiles-$hostname/
+cp -r Load-Generator-Analyser/collected-profiles-$hostname/* Autoscaler-externe/collected-profiles-$hostname/
 echo "Profiling results copied to the auto-scaling directory"
 
 # We can now stop the load generator
