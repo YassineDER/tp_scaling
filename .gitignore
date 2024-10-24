@@ -2,3 +2,5 @@ node_modules/
 doc.tex
 collected-profiles-*/
 *.out
+collected-data.json
+lookup-table-data.json

@@ -32,7 +32,7 @@ function sendAxiosPost(url, dataObj) {
 
 
 console.log(`Scaling to 1 replica`)
-execSync(`kubectl scale --replicas=1 -f ../k8s/k8-tp-04-busy-box-deployment.yaml`)
+execSync(`kubectl scale --replicas=1 -f ../k8s/k8-tp-04-busy-box-deployment.yaml && sleep 10`)
 
 sendAxiosPost(urlLoadGenerator, {
     MessageType: 'Setting',

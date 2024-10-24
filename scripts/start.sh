@@ -4,7 +4,7 @@
 virtualenv -p python3 venv
 source venv/bin/activate
 pip install -U pip
-pip install enoslib
+pip install enoslib paramiko
 
 # Get the login and password from params
 # Parse command line arguments
