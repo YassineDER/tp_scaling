@@ -50,4 +50,4 @@ nohup ./generate_scaling_data.sh > generate_scaling_data.out 2>&1 &
 generate_scaling_data_pid=$!
 wait $generate_scaling_data_pid
 
-echo "Done. The graphs are ready to be viewed in the 'images' directory."
+echo "Done. The graphs are ready to be viewed in the 'graphs' directory."

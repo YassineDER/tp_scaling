@@ -36,5 +36,10 @@ wait $main_load_generator_auto_pid
 kill $main_auto_scaler_pid
 
 echo "The graph data is ready to be plotted."
-echo "Running the plotter script to generate the graphs as PNG files..."
-# python3 graph.py > graph.out 2>&1
+mv collected-delays* ~/tp_scaling/graphs/
+
+echo "Running the plotter script..."
+cd ~/tp_scaling/graphs/
+python3 graph.py
+
+echo "The graphs have been generated and are available in the graphs directory."

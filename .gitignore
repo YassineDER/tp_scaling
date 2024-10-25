@@ -5,4 +5,7 @@ lookup-table-data.json
 *.stdout
 *.stderr
 oarapi*
+*.png
+
+
 

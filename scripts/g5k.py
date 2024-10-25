@@ -10,6 +10,7 @@
 
 import requests
 
+
 strasbourg_config = {
     'resources': 'nodes=1,walltime=1:00',
     'command': 'cd scripts && chmod +x *.sh && ./start.sh',
@@ -24,6 +25,9 @@ lille_config = {
     'directory': '~/tp_scaling',
     'command': 'cd scripts && chmod +x *.sh && ./start.sh',
 }
+
+#Move the TP folder to each frontend home directory
+
 
 reserve_strasbourg = requests.post('https://api.grid5000.fr/stable/sites/strasbourg/jobs?pretty', json=strasbourg_config, verify=False)
 reserve_lille = requests.post('https://api.grid5000.fr/stable/sites/lille/jobs?pretty', json=lille_config, verify=False)
