@@ -2,7 +2,7 @@
 
 # Navigate to the Load-Generator-Analyser directory
 cd ~/tp_scaling/Load-Generator-Analyser
-nohup npm install > /dev/null 2>&1 &
+npm install
 
 # Generate the results in /collected-profiles, must be detached from the terminal
 echo "Running the main load generator script in the background"

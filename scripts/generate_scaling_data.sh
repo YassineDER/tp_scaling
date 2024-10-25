@@ -1,8 +1,7 @@
 #/bin/bash
 
 cd ~/tp_scaling/Autoscaler-externe
-nohup npm install > /dev/null 2>&1 &
-
+npm install
 rm collected-delays*
 
 echo "Running the load generator in the background..."
