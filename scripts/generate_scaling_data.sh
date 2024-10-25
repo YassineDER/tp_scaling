@@ -40,6 +40,8 @@ mv collected-delays* ~/tp_scaling/graphs/
 
 echo "Running the plotter script..."
 cd ~/tp_scaling/graphs/
-python3 graph.py
+python -m pip install -U pip
+python -m pip install -U matplotlib
+python graph.py
 
 echo "The graphs have been generated and are available in the graphs directory."
