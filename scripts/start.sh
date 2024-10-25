@@ -25,7 +25,7 @@ if [[ $depOutput == *"Error"* ]]; then
     echo "Deployment already exists"
 else
     echo "Creating deployment..."
-    echo "Deployment created"
+    sleep 30 # Wait for the deployment to be created
 fi
 
 # if there's no service, create one
@@ -35,8 +35,6 @@ if [[ $svcOutput == *"provided port is already allocated"* ]]; then
 else
     echo "Service created"
 fi
-
-sleep 15 # Wait for the deployment to be created
 
 # Generate the profiling results
 echo "Generating profiling results..."

@@ -2,9 +2,7 @@
 
 # Navigate to the Load-Generator-Analyser directory
 cd ~/tp_scaling/Load-Generator-Analyser
-
-# Install npm dependencies
-npm install
+nohup npm install > /dev/null 2>&1 &
 
 # Generate the results in /collected-profiles, must be detached from the terminal
 echo "Running the main load generator script in the background"
@@ -36,7 +34,8 @@ wait $profiler_pid
 cd ~/tp_scaling
 mkdir Autoscaler-externe/collected-profiles-$hostname
 
-cp -r Load-Generator-Analyser/collected-profiles-$hostname/* Autoscaler-externe/collected-profiles-$hostname/
+# Copy the profiling results to the auto-scaling directory
+cp -r Load-Generator-Analyser/collected-profiles-$hostname/* Autoscaler-externe/collected-profiles-$hostname
 echo "Profiling results copied to the auto-scaling directory"
 
 # We can now stop the load generator

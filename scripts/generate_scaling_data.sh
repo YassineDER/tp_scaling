@@ -1,8 +1,7 @@
 #/bin/bash
 
 cd ~/tp_scaling/Autoscaler-externe
-
-npm install 
+nohup npm install > /dev/null 2>&1 &
 
 rm collected-delays*
 
