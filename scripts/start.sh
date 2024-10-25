@@ -1,16 +1,15 @@
 #!/bin/bash
 
+
 # If tp_scaling directory does exist, Clean up the previous outputs
-if [ -d ~/tp_scaling ]; then
-    rm ~/tp_scaling/Load-Generator-Analyser/*.out
-    rm ~/tp_scaling/Autoscaler-externe/*.out
-    rm ~/tp_scaling/scripts/*.out
-    rm ~/tp_scaling/*.out
-fi
+echo "Cleaning up the previous outputs. Ignore any error messages."
+rm ~/tp_scaling/Load-Generator-Analyser/*.out
+rm ~/tp_scaling/Autoscaler-externe/*.out
+rm ~/tp_scaling/scripts/*.out
+rm ~/tp_scaling/oarapi*
 
 cd ~/tp_scaling/scripts
-# Setup K8s and Node.js
-# if kubectl is not recongnized, start the setup
+# Setup K8s and Node.js: if kubectl is not recongnized, start the setup
 if ! command -v kubectl &> /dev/null
 then
     echo "Installing up K8s and Node.js..."
@@ -41,13 +40,9 @@ sleep 15 # Wait for the deployment to be created
 
 # Generate the profiling results
 echo "Generating profiling results..."
-nohup ./generate_profilage.sh > generate_profilage.out 2>&1 &
-generate_profilage_pid=$!
-wait $generate_profilage_pid
+./generate_profilage.sh
 
 echo "Performing the scaling operations..."
-nohup ./generate_scaling_data.sh > generate_scaling_data.out 2>&1 &
-generate_scaling_data_pid=$!
-wait $generate_scaling_data_pid
+./generate_scaling_data.sh
 
 echo "Done. The graphs are ready to be viewed in the 'graphs' directory."

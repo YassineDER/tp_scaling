@@ -12,21 +12,19 @@ import requests
 
 
 strasbourg_config = {
-    'resources': 'nodes=1,walltime=1:00',
+    'resources': 'nodes=1,walltime=0:30',
     'command': 'cd scripts && chmod +x *.sh && ./start.sh',
     'directory': '~/tp_scaling',
     'properties': '(cluster = \'fleckenstein\')',
     'name': 'Noeud1',
 }
 lille_config = {
-    'resources': 'nodes=1,walltime=1:30',
+    'resources': 'nodes=1,walltime=0:30',
     'name': 'Noeud2',
     'properties': '(cluster = \'chifflot\')',
     'directory': '~/tp_scaling',
     'command': 'cd scripts && chmod +x *.sh && ./start.sh',
 }
-
-#Move the TP folder to each frontend home directory
 
 
 reserve_strasbourg = requests.post('https://api.grid5000.fr/stable/sites/strasbourg/jobs?pretty', json=strasbourg_config, verify=False)

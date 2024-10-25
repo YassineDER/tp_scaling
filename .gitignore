@@ -6,6 +6,5 @@ lookup-table-data.json
 *.stderr
 oarapi*
 *.png
-
-
+doc.txt
 
