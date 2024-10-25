@@ -97,7 +97,7 @@ app.post('/json', (req, res) => {
 
                 case 'manual': // Manually scale the deployment
                     x3 = 5 // Default value for replicas
-
+                    
                     ans = `ManualScale to ${x3} replicas`
                     execSync(`kubectl scale --replicas=${x3} -f ../k8s/k8-tp-04-busy-box-deployment.yaml`)
                     break

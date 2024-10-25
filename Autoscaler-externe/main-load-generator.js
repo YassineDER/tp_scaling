@@ -13,6 +13,7 @@ const ipAddress = ip.address()
 const ipPort = 4000
 
 let arrResponses = []
+let delays_per_execution = []
 let urlBusyBox = null
 let timerLoadGeneration = null
 let timerPrintResults = null
@@ -84,6 +85,12 @@ app.post('/json', (req, res) => {
                         } else {
                             console.log('    Data Generation => Finish')
                             clearInterval(timerLoadGeneration)
+                            // Save the collected delays for each execution 
+                            if (req.body['Purpose'] == 'Graph') {
+                                delays = JSON.stringify(delays_per_execution, null, 4)
+                                fs.writeFileSync(req.body['GraphDataFileName'], delays)
+                            }
+                            //----------------------------------------------------------
                         }
                     }, req.body['Interval'])
 
@@ -95,6 +102,7 @@ app.post('/json', (req, res) => {
                             console.log('No data to show')
                             console.log('--------------------------------------------------')
                             clearInterval(timerPrintResults)
+                            process.exit()
                         } else {
                             x2 = x1.map(dp => dp['Response']['NodeIP'])
                             x2 = [... new Set(x2)]
@@ -120,8 +128,19 @@ app.post('/json', (req, res) => {
                                 }
                             })
                             console.log('--------------------------------------------------')
+
+                            delays_per_execution.push({
+                                'Execution': delays_per_execution.length + 1,
+                                // Each execution have multiple node ips, we want to know the average delay of all nodes for each execution
+                                'AverageDelay': x1.reduce((acc, dp) => acc + dp['TotalDelay'], 0) / x1.length,
+                                'Replicas': x2.length
+                            })
                         }
+
                     }, 1000)
+                    
+                    if (delays_per_execution.length > 0) 
+                        process.exit()
 
                     break
 

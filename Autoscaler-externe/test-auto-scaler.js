@@ -14,7 +14,7 @@ if (myArgs[0] == null || myArgs[1] == null) {
 } else {
     RequestInterval = myArgs[0]
     TargetDelay = myArgs[1]
-    Scaling = myArgs[2] ?? 'auto'
+    Scaling = myArgs[2] ? myArgs[2] : 'auto'
     console.log(`Run test for RequestInterval: ${RequestInterval} to reach TargetDelay: ${TargetDelay}` + ` with Scaling: ${Scaling}`)
 }
 
@@ -32,7 +32,7 @@ function sendAxiosPost(url, dataObj) {
 
 
 console.log(`Scaling to 1 replica`)
-execSync(`kubectl scale --replicas=1 -f ../k8s/k8-tp-04-busy-box-deployment.yaml && sleep 10`)
+execSync(`kubectl scale --replicas=1 -f ../k8s/k8-tp-04-busy-box-deployment.yaml`)
 
 sendAxiosPost(urlLoadGenerator, {
     MessageType: 'Setting',
@@ -48,17 +48,19 @@ setTimeout(() => {
     sendAxiosPost(urlLoadGenerator, {
         MessageType: 'Command',
         NodeCommand: 'GenerateLoad',
-        Duration: 30000, //10000ms = 10s
+        Duration: 15000, //10000ms = 10s
         Interval: RequestInterval, // 100 = 100 ms
+        Purpose: 'Graph',
+        GraphDataFileName: `collected-delays-${Scaling}-scaling.json`,
         NumberOfPoints: 1000,
         TargetDelay: TargetDelay
     })
 
     sendAxiosPost(urlAutoScaler, {
         MessageType: 'Command',
-        NodeCommand: Scaling,
+        NodeCommand: Scaling, // 'auto' or 'manual'
         RequestInterval: RequestInterval,
         TotalDelay: TargetDelay
     })
 
-}, 5000)
+}, 10000) 

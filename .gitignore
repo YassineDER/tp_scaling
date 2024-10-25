@@ -1,8 +1,6 @@
 node_modules/
-doc.tex
-collected-profiles-*/
 *.out
-collected-data.json
+collected*
 lookup-table-data.json
 *.stdout
 *.stderr

@@ -13,7 +13,7 @@ for NumReplicas in 5 4 3 2 1; do
 
         sleep 10 # Wait for the scaling to take effect
         echo "---------------------------------------------------------"
-        echo "Analysing the resdults"
+        echo "Analysing the results"
         node main-load-analyser "collected-profiles-$hostname/results-$NumReplicas-$RequestInterval-raw.json"
         echo "========================================================="
     done
